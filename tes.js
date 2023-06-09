@@ -25,6 +25,7 @@ const music_list = [
         id: 1,
         name: "Tabun",
         artist: "Yoasobi",
+        img: "tabun.jpg",
         music: "Tabun.mp3"
     },
     {
