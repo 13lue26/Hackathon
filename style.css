@@ -207,6 +207,22 @@ body {
     }
     
     table {
-        margin-top: 150px;
+        margin-top: 10px;
+        margin-bottom: 50px;
         border: solid black;
     }
+
+
+#myTable {
+  color: white;
+  border-color: blue;
+  font-family: sans-serif;
+  background-color: rgba(0, 0, 0, 0.796);
+  border-radius: 15px;
+  border: 2px;
+  border-color: aqua;
+  padding: 20px;
+  min-width: 755px;
+  max-width: 755px;
+  
+}
